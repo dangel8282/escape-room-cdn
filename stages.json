@@ -1,12 +1,14 @@
-[
-  {
-    "stageId": "stage_4",
-    "displayName": "심야 편의점, 혼자 남겨졌다",
-    "sortOrder": 4,
-    "lockedByDefault": false,
-    "bundleSizeBytes": 0,
-    "thumbnailUrl": "",
-    "addressablesKey": "stage_4_definition",
-    "addressablesLabel": "stage_4"
-  }
-]
+{
+  "version": 1,
+  "entries": [
+    {
+      "stageId": "stage_4",
+      "displayTitle": "\uC2EC\uC57C \uD3B8\uC758\uC810, \uD63C\uC790 \uB0A8\uACA8\uC84C\uB2E4",
+      "sortOrder": 1,
+      "stageDefinitionAddress": "stage_4_definition",
+      "addressableLabelStage": "",
+      "lockedByDefault": false,
+      "lobbyThumbnailUrl": ""
+    }
+  ]
+}
